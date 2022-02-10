@@ -2,7 +2,7 @@
   "name": "love-locker",
   "version": "0.1.0",
   "devDependencies": {
-    "node-sass": "^4.13.1"
+    "node-sass": "^7.0.0"
   },
   "dependencies": {
     "react": "^16.12.0",
